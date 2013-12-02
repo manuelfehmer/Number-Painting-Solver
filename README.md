@@ -1,4 +1,10 @@
 Number-Painting-Solver
 ======================
 
-optical Solver for Number-Paintings. 
+Optical Solver for Number-Paintings. 
+
+- find Points
+- find next Number
+- OCR read Number 
+- sort Numbers 
+- connect Points with Lines
